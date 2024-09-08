@@ -8,7 +8,6 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://travel-blog.eden-reich.com',
-  siteRepo: 'https://travel-blog.eden-reich.com',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   github: 'https://github.com/edenreich/',
