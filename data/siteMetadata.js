@@ -7,7 +7,7 @@ const siteMetadata = {
     "Welcome to my blog, where I dive into the world of FPV drones and cinematography. Whether you're looking for top-notch gear recommendations or tips to make your content stand out, you've come to the right place. I'll be posting about Davinci Resolve content editing and post some amazing FPV shots.",
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://edenreich.github.io/test-blog-template',
+  siteUrl: 'https://travel2-blog.eden-reich.com',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   github: 'https://github.com/edenreich/',
