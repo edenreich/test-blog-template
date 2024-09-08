@@ -4,7 +4,7 @@ const siteMetadata = {
   author: 'Eden Reich',
   headerTitle: 'Eden Reich',
   description:
-    "Welcome to my blog, where I dive into the world of FPV drones and cinematography gear. Whether you're looking for top-notch gear recommendations or tips to make your content stand out, you've come to the right place.",
+    "Welcome to my blog, where I dive into the world of FPV drones and cinematography. Whether you're looking for top-notch gear recommendations or tips to make your content stand out, you've come to the right place. I'll be posting about Davinci Resolve content editing and post some amazing FPV shots.",
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://travel-blog.eden-reich.com',
