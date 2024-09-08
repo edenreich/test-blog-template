@@ -121,6 +121,7 @@ export const Blog = defineDocumentType(() => ({
         description: doc.summary,
         image: doc.images ? doc.images[0] : siteMetadata.socialBanner,
         url: `${siteMetadata.siteUrl}/${doc._raw.flattenedPath}`,
+        previewImage: `${siteMetadata.siteUrl}${doc.previewImage}`,
       }),
     },
   },
