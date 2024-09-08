@@ -10,7 +10,7 @@ const siteMetadata = {
   siteUrl: 'https://travel-blog.eden-reich.com',
   siteRepo: 'https://travel-blog.eden-reich.com',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
-  socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
+  socialBanner: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   github: 'https://github.com/edenreich/',
   facebook: 'https://www.facebook.com/eden.reich.7',
   youtube: 'https://www.youtube.com/@edenr1988',
