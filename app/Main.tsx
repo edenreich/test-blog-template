@@ -1,6 +1,6 @@
 import Link from '@/components/Link'
 import siteMetadata from '@/data/siteMetadata'
-import NewsletterForm from 'pliny/ui/NewsletterForm'
+// import NewsletterForm from 'pliny/ui/NewsletterForm'
 import ListLayoutWithTags from '@/layouts/ListLayoutWithTags'
 
 const MAX_DISPLAY = 5

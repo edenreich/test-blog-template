@@ -1,0 +1,23 @@
+{
+  "status": "ready",
+  "originalFilePath": "public/static/videos/sorapis.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "uploadId": "MbGqMQBASAnkWEJksXQs5AwRYA0261qX4eRjyNlXAszs",
+      "assetId": "YQfnWPKOBP6GOjC3jG7CAcdfV9PEOm800t2SGyHrKmfw",
+      "playbackId": "00h01pA02ZLsBZlj01vS526wOb4p2GwfNQDNNVyR96R22Sg"
+    }
+  },
+  "createdAt": 1725910164062,
+  "updatedAt": 1725910187371,
+  "size": 20359021,
+  "sources": [
+    {
+      "src": "https://stream.mux.com/00h01pA02ZLsBZlj01vS526wOb4p2GwfNQDNNVyR96R22Sg.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/00h01pA02ZLsBZlj01vS526wOb4p2GwfNQDNNVyR96R22Sg/thumbnail.webp",
+  "blurDataURL": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACQAgCdASoJABAAAQAcJYwCdDBKSIfJvlAdGLBFAAD+82Ro9pEPLKo3Q46Zt57U9aluq16yEfOAm5TdCycncw4+krtGx4b77F56tZz2OC7ojQ+S24o8vKtvgyUZ0lOBWFu//Xv7dH6i9Z4VKOuA8ay2gh2phXTQcHvMUV/46ofGLwEE2Nojox8k/zbLjpYAAAA="
+}

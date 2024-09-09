@@ -46,3 +46,10 @@ yarn-error.log*
 
 # Contentlayer
 .contentlayer
+
+# next-video
+public/static/videos/*
+!public/static/videos/*.json
+!public/static/videos/*.js
+!public/static/videos/*.ts
+public/_next-video
