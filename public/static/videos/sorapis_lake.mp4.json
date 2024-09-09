@@ -1,0 +1,22 @@
+{
+  "status": "ready",
+  "originalFilePath": "public/static/videos/sorapis_lake.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "uploadId": "JkdOW6ZSfR00MAjb96tGc6lF01dv02Uuo2zRs2Dwl2FEck",
+      "assetId": "Ug9GH4JX3vHZylOqThb1AvZTnwqNPAAHbVPjN2KXPVo",
+      "playbackId": "bOTGyccAbX3sX6KTRpPHnKZF8jo00ZmG58wIJebREo6I"
+    }
+  },
+  "createdAt": 1725919027083,
+  "updatedAt": 1725919075188,
+  "size": 108211544,
+  "sources": [
+    {
+      "src": "https://stream.mux.com/bOTGyccAbX3sX6KTRpPHnKZF8jo00ZmG58wIJebREo6I.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/bOTGyccAbX3sX6KTRpPHnKZF8jo00ZmG58wIJebREo6I/thumbnail.webp"
+}
